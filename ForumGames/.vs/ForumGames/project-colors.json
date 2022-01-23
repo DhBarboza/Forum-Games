@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2e812e8-508d-490b-9e1d-4c48ae93ba84": {
+      "ProjectGuid": "b2e812e8-508d-490b-9e1d-4c48ae93ba84",
+      "DisplayName": "ForumGames.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
